@@ -15,7 +15,7 @@
 ---
 
 ### 📬 Connect
-- **Telegram:** [@your_username](https://t.me/your_username)
+- **Telegram:** [@a7cana](https://t.me/a7cana)
 - **Status:** *Open to ideas, advice & collaboration.*
 
 ---
