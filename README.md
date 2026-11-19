@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Max (`a7cana`) 👋
 
-<!--
-**a7cana/a7cana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎯 My goal: Learn modern tech by building real-world projects and digital products.
+- 🛠 Currently exploring: Programming, automation & web technologies.
+- 📈 Learning in public: documenting the journey from day zero.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Focus
+- ⚡ Learning Python & Web fundamentals
+- 🤖 Building practical tools & scripts
+- 💡 Experimenting with indie-projects & ideas
+
+---
+
+### 📬 Connect
+- **Telegram:** [@your_username](https://t.me/your_username)
+- **Status:** *Open to ideas, advice & collaboration.*
+
+---
+<sub>*Zero excuses. Just building.*</sub>
